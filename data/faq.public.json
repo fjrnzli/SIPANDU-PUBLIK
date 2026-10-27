@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "kategori": "Pengecekan Riwayat Kredit (SLIK)",
+    "pertanyaan": "Apa itu SLIK dan bagaimana cara mengecek riwayat kredit saya?",
+    "jawaban": "SLIK (Sistem Layanan Informasi Keuangan) adalah sistem milik OJK yang berisi informasi riwayat kredit atau pinjaman Anda. Melalui SLIK, Anda bisa mengetahui apakah masih memiliki pinjaman, sudah lunas, atau pernah menunggak pembayaran. Untuk mengeceknya, Anda bisa datang langsung ke kantor OJK terdekat dengan membawa KTP asli. Hasilnya akan dikirim ke email Anda."
+  },
+  {
+    "id": 2,
+    "kategori": "Pengecekan Riwayat Kredit (SLIK)",
+    "pertanyaan": "Siapa saja yang bisa mengajukan pengecekan SLIK?",
+    "jawaban": "Yang bisa mengajukan pengecekan SLIK (iDeb) antara lain: pemilik data (debitur) dengan membawa KTP asli; ahli waris dengan membawa dokumen kematian dan bukti sebagai ahli waris; orang yang diberi kuasa dengan membawa surat kuasa; serta badan usaha melalui pengurus atau kuasanya dengan dokumen badan usaha."
+  },
+  {
+    "id": 3,
+    "kategori": "Pengecekan Riwayat Kredit (SLIK)",
+    "pertanyaan": "Apakah data di SLIK bisa diputihkan atau dihapus?",
+    "jawaban": "Tidak ada istilah 'pemutihan SLIK'. Data di SLIK tidak bisa dihapus atau dibersihkan atas permintaan debitur. Jika masih ada tunggakan, selesaikan dulu kewajiban kepada bank atau perusahaan pembiayaan. Setelah lunas, PUJK akan memperbarui data dan status kredit menjadi 'Lunas'. Yang berubah adalah statusnya, bukan riwayatnya dihapus. Hati-hati terhadap pihak yang menawarkan jasa menghapus riwayat SLIK, karena itu tidak sesuai ketentuan."
+  },
+  {
+    "id": 4,
+    "kategori": "Pengecekan Riwayat Kredit (SLIK)",
+    "pertanyaan": "Kapan status 'Lunas' muncul di SLIK setelah saya melunasi pinjaman?",
+    "jawaban": "Setelah pinjaman dilunasi, bank atau perusahaan pembiayaan akan memperbarui data ke SLIK. Berdasarkan ketentuan yang berlaku, pembaruan dilakukan paling lambat 3 hari kerja setelah pelunasan. Jika setelah lewat waktu tersebut status belum berubah, hubungi bank atau perusahaan pembiayaan yang bersangkutan. Jika belum terselesaikan, Anda bisa mengajukan pengaduan melalui APPK OJK."
+  },
+  {
+    "id": 5,
+    "kategori": "Pengecekan Riwayat Kredit (SLIK)",
+    "pertanyaan": "Sudah melunasi pinjaman bertahun-tahun lalu, tetapi SLIK masih menunjukkan macet (Kol 5). Apa yang harus dilakukan?",
+    "jawaban": "Jika pinjaman sudah dilunasi tetapi SLIK masih menunjukkan Kol 5, kemungkinan ada kendala pelaporan dari bank atau perusahaan pembiayaan. Langkah yang perlu dilakukan: (1) Hubungi bank/perusahaan pembiayaan tempat Anda melunasi, minta klarifikasi dan pembaruan data. (2) Jika belum terselesaikan, ajukan pengaduan melalui APPK OJK dengan melampirkan KTP, bukti pelunasan, surat keterangan lunas, dan kronologi permasalahan."
+  },
+  {
+    "id": 6,
+    "kategori": "Pengecekan Riwayat Kredit (SLIK)",
+    "pertanyaan": "SLIK saya bagus, tetapi pengajuan kredit tetap ditolak. Kenapa?",
+    "jawaban": "SLIK hanyalah salah satu pertimbangan dalam analisis kredit. Bank atau perusahaan pembiayaan juga melihat faktor lain seperti kemampuan membayar, penghasilan, lama bekerja, rasio cicilan, kelengkapan dokumen, nilai agunan, dan kebijakan internal masing-masing. Meskipun SLIK Anda bersih, pengajuan kredit tetap bisa ditolak. Anda bisa menanyakan alasan penolakan kepada bank atau perusahaan pembiayaan yang bersangkutan."
+  },
+  {
+    "id": 7,
+    "kategori": "Pengecekan Riwayat Kredit (SLIK)",
+    "pertanyaan": "Apakah pinjaman dari aplikasi tidak berizin OJK muncul di SLIK?",
+    "jawaban": "Tidak. SLIK hanya memuat informasi kredit dari lembaga keuangan resmi yang menjadi pelapor SLIK sesuai ketentuan OJK. Pinjaman dari aplikasi pinjaman online ilegal umumnya tidak muncul di SLIK. Meski demikian, tetap berhati-hati terhadap pinjaman online ilegal karena sering menggunakan cara penagihan yang tidak sesuai ketentuan. Pastikan legalitas penyedia pinjaman melalui SIPASTI sebelum mengajukan pinjaman."
+  },
+  {
+    "id": 8,
+    "kategori": "Pengecekan Riwayat Kredit (SLIK)",
+    "pertanyaan": "Paylater saya tidak muncul di SLIK, apakah itu normal?",
+    "jawaban": "Ya, itu bisa terjadi. Tidak semua layanan paylater atau pinjaman online muncul di SLIK. Yang tercatat di SLIK adalah nama lembaga keuangan pelapor, bukan nama aplikasi. Selain itu, tidak semua penyelenggara paylater menjadi pelapor SLIK. Jika pinjaman tidak muncul di SLIK, bukan berarti pinjaman tidak ada — untuk memastikan status pinjaman, hubungi penyedia layanan yang bersangkutan."
+  },
+  {
+    "id": 9,
+    "kategori": "Pengecekan Riwayat Kredit (SLIK)",
+    "pertanyaan": "Ada riwayat pinjaman di SLIK padahal saya tidak pernah mengajukan kredit. Bagaimana?",
+    "jawaban": "Hal ini bisa terjadi karena penyalahgunaan identitas atau kesalahan data. Segera hubungi bank atau perusahaan pembiayaan yang tercantum pada laporan SLIK untuk meminta penjelasan. Jika belum terselesaikan, ajukan pengaduan melalui APPK OJK dengan melampirkan KTP, hasil SLIK, dan kronologi. Jika ada dugaan tindak pidana seperti pemalsuan identitas, Anda juga bisa melapor ke pihak kepolisian."
+  },
+  {
+    "id": 10,
+    "kategori": "Pengaduan Konsumen",
+    "pertanyaan": "Bagaimana cara mengajukan pengaduan ke OJK?",
+    "jawaban": "Anda bisa mengajukan pengaduan melalui beberapa cara: (1) Datang langsung ke kantor OJK terdekat. (2) Menghubungi Kontak OJK 157 (telepon). (3) Melalui WhatsApp resmi OJK di 081-157-157-157. (4) Mengirim email ke konsumen@ojk.go.id. (5) Mengisi formulir pengaduan online di portal APPK External (kontak157.ojk.go.id). Pastikan Anda telah mengadukan masalah ke lembaga jasa keuangan terlebih dahulu sebelum mengadu ke OJK."
+  },
+  {
+    "id": 11,
+    "kategori": "Pengaduan Konsumen",
+    "pertanyaan": "Apa saja dokumen yang perlu disiapkan untuk mengajukan pengaduan?",
+    "jawaban": "Dokumen yang umumnya diperlukan antara lain: KTP, surat pengaduan bermaterai Rp10.000, kronologi permasalahan, bukti bahwa Anda sudah mengadu ke lembaga jasa keuangan, tanggapan dari lembaga (jika ada), perjanjian/akad terkait, bukti transaksi, dan surat kuasa bermaterai Rp10.000 jika diwakilkan."
+  },
+  {
+    "id": 12,
+    "kategori": "Pengaduan Konsumen",
+    "pertanyaan": "Pengaduan apa saja yang bisa dan tidak bisa ditangani OJK?",
+    "jawaban": "OJK bisa menangani pengaduan terkait produk dan layanan jasa keuangan di bawah pengawasannya, misalnya: kredit/pembiayaan, tabungan, kartu kredit, leasing, asuransi, dan fintech berizin OJK. Namun OJK tidak menangani: sengketa jual beli online tanpa lembaga jasa keuangan, utang piutang pribadi, masalah keluarga/warisan, dan sengketa yang sedang di pengadilan. Untuk pinjaman online ilegal, OJK bisa memberikan edukasi dan mengarahkan ke instansi yang berwenang."
+  },
+  {
+    "id": 13,
+    "kategori": "Pengaduan Konsumen",
+    "pertanyaan": "Sudah melunasi kredit, tetapi bank masih menagih. Apa yang harus dilakukan?",
+    "jawaban": "Pastikan dulu pembayaran terakhir sudah diproses dan tercatat oleh bank. Simpan semua bukti pembayaran, kuitansi, atau surat keterangan lunas. Hubungi bank untuk klarifikasi. Jika masih tidak terselesaikan, Anda bisa mengajukan pengaduan melalui APPK OJK dengan melampirkan seluruh bukti pendukung."
+  },
+  {
+    "id": 14,
+    "kategori": "Penipuan & Keamanan",
+    "pertanyaan": "Saya tertipu dan sudah transfer uang ke rekening pelaku. Harus lapor ke mana?",
+    "jawaban": "Segera laporkan ke Indonesia Anti Scam Centre (IASC) melalui portal IASC di iasc.ojk.go.id. Semakin cepat laporan, semakin besar peluang rekening tujuan bisa ditindaklanjuti. Siapkan informasi berikut: nomor rekening pelaku, nama bank tujuan, nominal kerugian, waktu transaksi, dan bukti transfer. Perlu diketahui bahwa IASC membantu mempercepat penanganan, tetapi tidak menjamin dana pasti kembali."
+  },
+  {
+    "id": 15,
+    "kategori": "Penipuan & Keamanan",
+    "pertanyaan": "Bagaimana cara mengecek apakah suatu perusahaan investasi atau pinjaman online itu legal?",
+    "jawaban": "Anda bisa mengecek melalui SIPASTI (Sistem Informasi Pemberantasan Aktivitas Keuangan Ilegal) di sipasti.ojk.go.id. Di sana Anda bisa melihat apakah suatu perusahaan sudah berizin dan di bawah pengawasan OJK. Ingat prinsip '2L' — Legal (sudah berizin OJK) dan Logis (jangan percaya janji keuntungan besar tanpa risiko)."
+  },
+  {
+    "id": 16,
+    "kategori": "Penipuan & Keamanan",
+    "pertanyaan": "Korban investasi ilegal atau arisan bodong, harus lapor ke mana?",
+    "jawaban": "Pertama, cek legalitas perusahaan melalui SIPASTI (sipasti.ojk.go.id). Jika sudah transfer ke rekening pelaku, segera lapor ke IASC (iasc.ojk.go.id) dengan melengkapi nomor rekening tujuan, nominal kerugian, waktu transaksi, dan bukti transfer. Jika tidak memenuhi syarat IASC (misalnya tidak tahu rekening tujuan), penanganan akan disesuaikan dengan instansi berwenang."
+  },
+  {
+    "id": 17,
+    "kategori": "Penipuan & Keamanan",
+    "pertanyaan": "Mobile banking saya dibajak, tetapi tidak tahu nomor rekening pelaku. Apa yang bisa dilakukan?",
+    "jawaban": "Jika tidak mengetahui nomor rekening tujuan, laporan tidak bisa diproses melalui IASC. Namun Anda bisa menyampaikan pengaduan melalui APPK OJK jika merasa ada permasalahan pada layanan bank. OJK akan membantu memfasilitasi pengaduan ke bank yang bersangkutan. Segera hubungi juga bank Anda untuk memblokir rekening dan melaporkan insiden."
+  },
+  {
+    "id": 18,
+    "kategori": "Kredit & Pinjaman",
+    "pertanyaan": "Motor ditarik leasing, apakah utang otomatis lunas?",
+    "jawaban": "Tidak. Kendaraan yang ditarik akan dijual (biasanya melalui lelang). Hasil penjualan digunakan untuk mengurangi sisa utang. Jika hasil penjualan lebih kecil dari sisa utang, kekurangan tetap menjadi kewajiban Anda. Sebaliknya, jika lebih besar, kelebihan akan dikembalikan setelah dipotong biaya sesuai perjanjian."
+  },
+  {
+    "id": 19,
+    "kategori": "Kredit & Pinjaman",
+    "pertanyaan": "Tidak sanggup bayar cicilan rumah (KPR), apa yang bisa dilakukan?",
+    "jawaban": "Jangan menunggu sampai tunggakan membesar. Segera hubungi bank tempat Anda memperoleh KPR dan sampaikan kondisi keuangan Anda. Bank bisa mempertimbangkan alternatif seperti restrukturisasi kredit. Persetujuan restrukturisasi tergantung hasil analisis bank. Jika Anda diam dan tidak berkomunikasi, tunggakan bisa mengakibatkan rumah dilelang sesuai perjanjian kredit."
+  },
+  {
+    "id": 20,
+    "kategori": "Kredit & Pinjaman",
+    "pertanyaan": "KTP dipinjam teman untuk pinjaman, bisakah utang dipindah ke nama teman?",
+    "jawaban": "Tidak bisa. Dalam perjanjian kredit, yang bertanggung jawab adalah orang yang identitasnya tercatat sebagai debitur. Jika pinjaman atas nama Anda, kewajiban tetap ada pada Anda. OJK tidak bisa memindahkan pinjaman ke orang lain. Jika ada dugaan penyalahgunaan identitas, Anda bisa menempuh jalur hukum. Untuk ke depannya, jangan pernah meminjamkan KTP kepada siapa pun."
+  },
+  {
+    "id": 21,
+    "kategori": "Kredit & Pinjaman",
+    "pertanyaan": "Ingin melunasi kredit lebih cepat, apakah boleh?",
+    "jawaban": "Boleh, jika diperbolehkan dalam perjanjian kredit. Namun setiap bank memiliki ketentuan berbeda. Beberapa produk kredit mengenakan biaya atau penalti pelunasan dipercepat. Hubungi bank atau perusahaan pembiayaan terlebih dahulu untuk mengetahui jumlah yang harus dibayar dan ada tidaknya biaya tambahan."
+  },
+  {
+    "id": 22,
+    "kategori": "Kredit & Pinjaman",
+    "pertanyaan": "Orang tua meninggal, masih ada kredit. Apakah utang terhapus?",
+    "jawaban": "Meninggalnya debitur tidak otomatis menghapus utang. Jika kredit dilengkapi asuransi jiwa kredit dan klaim disetujui, sisa utang bisa diselesaikan melalui klaim asuransi. Jika tidak ada asuransi, penyelesaian mengikuti ketentuan hukum dan perjanjian kredit. Ahli waris sebaiknya segera menghubungi bank dengan membawa surat kematian, identitas ahli waris, dan dokumen pendukung."
+  },
+  {
+    "id": 23,
+    "kategori": "Kredit & Pinjaman",
+    "pertanyaan": "Menjadi penjamin (guarantor) kredit, apakah ikut bertanggung jawab?",
+    "jawaban": "Ya, penjamin dalam perjanjian kredit memiliki tanggung jawab sesuai isi perjanjian yang disepakati. Dalam kondisi tertentu, penjamin bisa dimintai pertanggungjawaban jika debitur tidak memenuhi kewajibannya. Pastikan Anda memahami konsekuensi sebelum menjadi penjamin, dan mintalah penjelasan langsung kepada bank."
+  },
+  {
+    "id": 24,
+    "kategori": "Kredit & Pinjaman",
+    "pertanyaan": "Lupa akun/email/nomor kontrak pinjaman, bagaimana cara melunasi?",
+    "jawaban": "Tidak perlu khawatir. Hubungi customer service atau datang langsung ke kantor bank/perusahaan pembiayaan dengan membawa KTP asli. Setelah identitas diverifikasi, petugas akan membantu memberikan informasi pinjaman dan cara pelunasannya."
+  },
+  {
+    "id": 25,
+    "kategori": "Kredit & Pinjaman",
+    "pertanyaan": "Ingin mengajukan restrukturisasi kredit, bagaimana caranya?",
+    "jawaban": "Hubungi bank atau perusahaan pembiayaan tempat Anda memperoleh kredit. Sampaikan kondisi keuangan Anda dan ajukan permohonan restrukturisasi. Restrukturisasi bisa berupa perpanjangan jangka waktu, perubahan jumlah angsuran, atau penyesuaian lainnya. Permohonan restrukturisasi tidak otomatis disetujui — bank akan menilai kemampuan keuangan Anda terlebih dahulu. Ajukan sebelum tunggakan semakin besar."
+  },
+  {
+    "id": 26,
+    "kategori": "Pengaduan Konsumen",
+    "pertanyaan": "Tidak pernah menunggak, tiba-tiba ditagih. Apa yang harus dilakukan?",
+    "jawaban": "Jangan langsung membayar jika belum tahu dasar tagihan tersebut. Minta penjelasan dari bank mengenai nomor kontrak, rincian tagihan, dan dasar munculnya kewajiban. Jika terbukti ada kesalahan, minta perbaikan data. Jika tidak terselesaikan, Anda bisa mengajukan pengaduan melalui APPK OJK."
+  },
+  {
+    "id": 27,
+    "kategori": "Pengecekan Riwayat Kredit (SLIK)",
+    "pertanyaan": "Apakah menutup semua pinjaman akan menghapus riwayat kredit di SLIK?",
+    "jawaban": "Tidak. Setelah pinjaman dilunasi, status akan diperbarui menjadi 'Lunas', tetapi riwayat kredit tetap tercatat di SLIK. Riwayat ini digunakan sebagai bahan pertimbangan oleh lembaga keuangan. Jangan percaya jika ada pihak yang menawarkan jasa menghapus riwayat SLIK — hal itu tidak sesuai ketentuan."
+  },
+  {
+    "id": 28,
+    "kategori": "Penipuan & Keamanan",
+    "pertanyaan": "Korban penipuan, tetapi pinjaman tercatat atas nama saya. Apakah utang bisa dihapus?",
+    "jawaban": "Selama pinjaman tercatat atas nama Anda, kewajiban pembayaran tetap ada. Jika merasa pinjaman terjadi karena penipuan atau penyalahgunaan identitas, Anda bisa mengajukan pengaduan melalui APPK OJK dengan melampirkan kronologi dan bukti pendukung. OJK akan membantu memfasilitasi penyelesaian, tetapi tidak bisa langsung menghapus pinjaman. Keputusan akhir tergantung hasil pemeriksaan."
+  }
+]
