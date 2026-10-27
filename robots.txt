@@ -1,0 +1,4 @@
+# SIPANDU Publik — robots.txt
+User-agent: *
+Allow: /
+Sitemap: https://sipandu-publik.vercel.app/sitemap.xml
